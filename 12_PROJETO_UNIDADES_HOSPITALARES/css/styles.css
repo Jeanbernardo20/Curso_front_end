@@ -1,0 +1,33 @@
+/*
+backgroud fomulario: #00427F
+cor de fonte :#ddd
+*/
+
+body{
+    background-color: #ddd;
+}
+h1,
+h2,
+h3,
+h4,
+h5 {
+  color: #ddd;
+}
+
+.form-container {
+    background-color:#00427F;
+    width: 60%;
+    margin: 0 auto;
+    position: relative;
+    
+  }
+.form-header{
+    color: #fff;
+}
+.form-header h2 {
+    margin-top:50px;
+
+  
+
+}
+
